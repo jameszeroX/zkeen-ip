@@ -20,6 +20,14 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       "rules": [
       {
         "domain": [
+          "ext:zkeen.dat:bypass"
+        ],
+        "inboundTag": ["redirect", "tproxy"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
           "ext:zkeen.dat:domains",
           "ext:zkeen.dat:other"
         ],
