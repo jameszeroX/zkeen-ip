@@ -32,7 +32,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeen.dat:other"
         ],
         "inboundTag": ["redirect", "tproxy"],
-        "outboundTag": "vless-relity",
+        "outboundTag": "vless-reality",
         "type": "field"
       },
       {
