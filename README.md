@@ -19,10 +19,18 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
   "routing": {
       "rules": [
       {
+        "network": "udp",
+        "port": "443",
+        "ip": [
+          "ext:zkeenip.dat:!ru"
+        ],
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
         "domain": [
           "ext:zkeen.dat:bypass"
         ],
-        "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "direct",
         "type": "field"
       },
@@ -33,7 +41,6 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeen.dat:politic",
           "ext:zkeen.dat:youtube"
         ],
-        "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "vless-reality",
         "type": "field"
       },
@@ -44,20 +51,11 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:telegram"
         ],
-        "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "vless-reality",
         "type": "field"
       },
       {
-        "ip": [
-          "ext:zkeenip.dat:ru"
-        ],
-        "inboundTag": ["redirect", "tproxy"],
-        "outboundTag": "vless-reality-ru",
-        "type": "field"
-      },
-      {
-        "inboundTag": ["redirect", "tproxy"],
+        "port": "1-65535",
         "outboundTag": "direct",
         "type": "field"
       }
