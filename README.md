@@ -29,7 +29,9 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       {
         "domain": [
           "ext:zkeen.dat:domains",
-          "ext:zkeen.dat:other"
+          "ext:zkeen.dat:other",
+          "ext:zkeen.dat:politic",
+          "ext:zkeen.dat:youtube"
         ],
         "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "vless-reality",
@@ -37,10 +39,23 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       },
       {
         "ip": [
-          "ext:zkeenip.dat:cloudflare"
+          "ext:zkeenip.dat:cloudflare",
+          "ext:zkeenip.dat:discord",
+          "ext:zkeenip.dat:google",
+          "ext:zkeenip.dat:telegram",
+          "ext:zkeenip.dat:ua"
         ],
         "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "ext:zkeenip.dat:by",
+          "ext:zkeenip.dat:ru"
+        ],
+        "inboundTag": ["redirect", "tproxy"],
+        "outboundTag": "vless-reality-ru",
         "type": "field"
       },
       {
