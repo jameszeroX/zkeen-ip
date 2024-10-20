@@ -28,6 +28,15 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "type": "field"
       },
       {
+        "network": "udp",
+        "port": "50000-50030",
+        "ip": [
+          "ext:zkeenip.dat:discord"
+        ],
+        "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      {
         "domain": [
           "ext:zkeen.dat:bypass"
         ],
@@ -47,7 +56,6 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       {
         "ip": [
           "ext:zkeenip.dat:cloudflare",
-          "ext:zkeenip.dat:discord",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:telegram"
         ],
