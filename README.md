@@ -17,7 +17,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 ```json
 {
   "routing": {
-      "rules": [
+    "rules": [
       {
         "network": "udp",
         "port": "443",
