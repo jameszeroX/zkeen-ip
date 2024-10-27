@@ -63,7 +63,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "type": "field"
       },
       {
-        "port": "1-65535",
+        "network": "tcp,udp",
         "outboundTag": "direct",
         "type": "field"
       }
