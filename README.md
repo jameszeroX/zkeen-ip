@@ -8,9 +8,10 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 
 Сборка содержит IP-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
-## Ссылка для загрузки крайней версии
+## Ссылки для загрузки крайней версии
 
 - <https://github.com/jameszeroX/zkeen-ip/releases/latest/download/zkeenip.dat>
+- <https://cdn.jsdelivr.net/gh/jameszeroX/zkeen-ip@master/zkeenip.dat>
 
 ## Пример использования
 
