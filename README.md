@@ -6,7 +6,7 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
 
 FAQ <https://jameszero.net/faq-xkeen.htm>
 
-Сборка содержит IP-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
+Сборка содержит IPv4-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
 ## Ссылки для загрузки крайней версии
 
