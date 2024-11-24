@@ -58,6 +58,8 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "ip": [
           "ext:zkeenip.dat:cloudflare",
           "ext:zkeenip.dat:google",
+          "ext:zkeenip.dat:hetzner",
+          "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:telegram"
         ],
         "outboundTag": "vless-reality",
