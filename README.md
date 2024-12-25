@@ -1,6 +1,6 @@
 ## Список IP-адресов выборочной маршрутизации для проекта XKeen
 
-Подробнее о проекте XKeen по ссылке <https://forum.keenetic.com/topic/16899-xray-на-entware-xkeen/>
+Подробнее о проекте XKeen по ссылке <https://forum.keenetic.ru/topic/16899-xray-на-entware-xkeen/>
 
 Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
 
