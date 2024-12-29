@@ -57,8 +57,10 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       {
         "ip": [
           "ext:zkeenip.dat:amazon",
+          "ext:zkeenip.dat:cdn77",
           "ext:zkeenip.dat:cloudflare",
           "ext:zkeenip.dat:digitalocean",
+          "ext:zkeenip.dat:fastly",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
           "ext:zkeenip.dat:meta",
