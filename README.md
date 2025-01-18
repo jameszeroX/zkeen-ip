@@ -65,7 +65,8 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
           "ext:zkeenip.dat:meta",
-          "ext:zkeenip.dat:telegram"
+          "ext:zkeenip.dat:telegram",
+          "ext:zkeenip.dat:youtube"
         ],
         "outboundTag": "vless-reality",
         "type": "field"
