@@ -19,7 +19,8 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 - <https://github.com/jameszeroX/zkeen-ip/releases/latest/download/zkeenip.dat>
 - <https://cdn.jsdelivr.net/gh/jameszeroX/zkeen-ip@master/zkeenip.dat>
 
-## Пример использования
+## Пример маршрутизации
+с использованием всех возможных категорий zkeen.dat и zkeenip.dat
 
 ```json
 {
