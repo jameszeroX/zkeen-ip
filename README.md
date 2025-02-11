@@ -31,8 +31,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "ip": [
           "ext:zkeenip.dat:!ru"
         ],
-        "outboundTag": "block",
-        "type": "field"
+        "outboundTag": "block"
       },
       {
         "network": "udp",
@@ -40,15 +39,13 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "ip": [
           "ext:zkeenip.dat:discord"
         ],
-        "outboundTag": "vless-reality",
-        "type": "field"
+        "outboundTag": "vless-reality"
       },
       {
         "domain": [
           "ext:zkeen.dat:bypass"
         ],
-        "outboundTag": "direct",
-        "type": "field"
+        "outboundTag": "direct"
       },
       {
         "domain": [
@@ -57,8 +54,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeen.dat:politic",
           "ext:zkeen.dat:youtube"
         ],
-        "outboundTag": "vless-reality",
-        "type": "field"
+        "outboundTag": "vless-reality"
       },
       {
         "ip": [
@@ -74,13 +70,11 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:telegram",
           "ext:zkeenip.dat:youtube"
         ],
-        "outboundTag": "vless-reality",
-        "type": "field"
+        "outboundTag": "vless-reality"
       },
       {
         "network": "tcp,udp",
-        "outboundTag": "direct",
-        "type": "field"
+        "outboundTag": "direct"
       }
     ]
   }
