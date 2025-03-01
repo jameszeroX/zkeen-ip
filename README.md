@@ -44,12 +44,6 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       },
       {
         "domain": [
-          "ext:zkeen.dat:bypass"
-        ],
-        "outboundTag": "direct"
-      },
-      {
-        "domain": [
           "ext:zkeen.dat:domains",
           "ext:zkeen.dat:other",
           "ext:zkeen.dat:politic",
