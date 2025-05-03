@@ -16,10 +16,9 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 
 Сборка содержит IPv4-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
-## Зеркала для загрузки крайней версии
+## Ссылка для загрузки крайней версии
 
 - <https://github.com/jameszeroX/zkeen-ip/releases/latest/download/zkeenip.dat>
-- <https://cdn.jsdelivr.net/gh/jameszeroX/zkeen-ip@master/zkeenip.dat>
 
 ## Пример маршрутизации
 Применены все возможные категорий zkeen.dat и zkeenip.dat
