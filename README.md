@@ -60,10 +60,12 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:cloudflare",
           "ext:zkeenip.dat:digitalocean",
           "ext:zkeenip.dat:fastly",
+          "ext:zkeenip.dat:gcore",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
           "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:telegram",
+          "ext:zkeenip.dat:vultr",
           "ext:zkeenip.dat:youtube"
         ],
         "outboundTag": "vless-reality"
