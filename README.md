@@ -16,11 +16,11 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 
 Сборка содержит IPv4-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
-## Ссылка для загрузки крайней версии
+### Ссылка для загрузки крайней версии
 
 - <https://github.com/jameszeroX/zkeen-ip/releases/latest/download/zkeenip.dat>
 
-## Пример маршрутизации
+### Пример маршрутизации
 Применены все возможные категорий zkeen.dat и zkeenip.dat
 
 ```json
@@ -63,6 +63,9 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:gcore",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
+          "ext:zkeenip.dat:linode",
+          "ext:zkeenip.dat:oracle",
+          "ext:zkeenip.dat:ovh",
           "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:telegram",
           "ext:zkeenip.dat:vultr",
