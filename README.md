@@ -12,7 +12,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 
 Сборка содержит IPv4-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
-### Ссылка для загрузки крайней версии
+### Ссылка для загрузки актуальной версии
 
 - <https://github.com/jameszeroX/zkeen-ip/releases/latest/download/zkeenip.dat>
 
