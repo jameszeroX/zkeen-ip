@@ -62,6 +62,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:linode",
           "ext:zkeenip.dat:oracle",
           "ext:zkeenip.dat:ovh",
+          "ext:zkeenip.dat:mega",
           "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:telegram",
           "ext:zkeenip.dat:vultr",
