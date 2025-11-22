@@ -54,6 +54,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:amazon",
           "ext:zkeenip.dat:cdn77",
           "ext:zkeenip.dat:cloudflare",
+          "ext:zkeenip.dat:colocrossing",
           "ext:zkeenip.dat:contabo",
           "ext:zkeenip.dat:digitalocean",
           "ext:zkeenip.dat:fastly",
