@@ -52,6 +52,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "ip": [
           "ext:zkeenip.dat:akamai",
           "ext:zkeenip.dat:amazon",
+          "ext:zkeenip.dat:azure",
           "ext:zkeenip.dat:cdn77",
           "ext:zkeenip.dat:cloudflare",
           "ext:zkeenip.dat:colocrossing",
