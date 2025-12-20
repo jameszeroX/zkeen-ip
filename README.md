@@ -41,6 +41,12 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
       },
       {
         "domain": [
+          "ext:zkeen.dat:bypass"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "domain": [
           "ext:zkeen.dat:domains",
           "ext:zkeen.dat:other",
           "ext:zkeen.dat:politic",
@@ -53,6 +59,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:akamai",
           "ext:zkeenip.dat:amazon",
           "ext:zkeenip.dat:azure",
+          "ext:zkeenip.dat:bunnycdn",
           "ext:zkeenip.dat:cdn77",
           "ext:zkeenip.dat:cloudflare",
           "ext:zkeenip.dat:colocrossing",
@@ -62,7 +69,9 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:gcore",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
+          "ext:zkeenip.dat:leaseweb",
           "ext:zkeenip.dat:linode",
+          "ext:zkeenip.dat:liquidweb",
           "ext:zkeenip.dat:mega",
           "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:oracle",
