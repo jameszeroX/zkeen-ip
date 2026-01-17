@@ -52,6 +52,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "ip": [
           "ext:zkeenip.dat:akamai",
           "ext:zkeenip.dat:amazon",
+          "ext:zkeenip.dat:arelion",
           "ext:zkeenip.dat:azure",
           "ext:zkeenip.dat:bunnycdn",
           "ext:zkeenip.dat:cdn77",
@@ -60,6 +61,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:contabo",
           "ext:zkeenip.dat:digitalocean",
           "ext:zkeenip.dat:fastly",
+          "ext:zkeenip.dat:frantech",
           "ext:zkeenip.dat:gcore",
           "ext:zkeenip.dat:google",
           "ext:zkeenip.dat:hetzner",
