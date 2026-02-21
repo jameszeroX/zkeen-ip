@@ -74,6 +74,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:ovh",
           "ext:zkeenip.dat:scaleway",
           "ext:zkeenip.dat:telegram",
+          "ext:zkeenip.dat:vodafone",
           "ext:zkeenip.dat:vultr",
           "ext:zkeenip.dat:youtube"
         ],
