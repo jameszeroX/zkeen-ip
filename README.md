@@ -69,6 +69,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:linode",
           "ext:zkeenip.dat:liquidweb",
           "ext:zkeenip.dat:mega",
+          "ext:zkeenip.dat:melbicom",
           "ext:zkeenip.dat:meta",
           "ext:zkeenip.dat:oracle",
           "ext:zkeenip.dat:ovh",
