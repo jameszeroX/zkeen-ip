@@ -32,11 +32,11 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "outboundTag": "block"
       },
       {
-        "network": "udp",
-        "port": "50000-50030",
         "ip": [
           "ext:zkeenip.dat:discord"
         ],
+        "network": "udp",
+        "port": "19200-19400,50000-50100",
         "outboundTag": "vless-reality"
       },
       {
