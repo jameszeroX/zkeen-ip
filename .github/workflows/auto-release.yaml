@@ -67,14 +67,6 @@ jobs:
             fi
           done
 
-          SHA256_SUM=""
-          for file in $FILES; do
-            SHA256=$(sha256sum "$file" | awk '{print $1}')
-            echo "SHA256 ($file): $SHA256"
-            echo "$SHA256  $file" > "${file}.sha256"
-            SHA256_SUM="${SHA256_SUM}\n**${file}:**\n\`\`\`\n${SHA256}\n\`\`\`"
-          done
-
           NOTES="![downloads](https://img.shields.io/github/downloads/jameszeroX/zkeen-ip/${TAG}/total?label=downloads)"
 
           echo "$NOTES" > /tmp/release_notes.md
@@ -95,14 +87,9 @@ jobs:
           # Пушим тег
           git push origin "$TAG"
 
-          RELEASE_FILES=""
-          for file in $FILES; do
-            RELEASE_FILES="$RELEASE_FILES $file ${file}.sha256"
-          done
-
           # Создаем релиз с использованием файла notes
           gh release create "$TAG" \
-            $RELEASE_FILES \
+            $FILES \
             --title "$RELEASE_NAME" \
             --notes-file /tmp/release_notes.md \
             --verify-tag
