@@ -12,7 +12,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
 
 Сборка содержит IP-подсети для выборочной маршрутизации и рекомендуется, как дополнение к списку доменов <https://github.com/jameszeroX/zkeen-domains>
 
-Так же на странице релизов выкладываются списки `ru` и `ru6` для GeoIPSET в [XKeen 2.0 Beta](https://github.com/jameszeroX/XKeen/tree/main/test)
+Так же на странице релизов выкладываются списки `ru` и `ru6` для GeoIPSET [XKeen 2.0](https://github.com/jameszeroX/XKeen)
 
 ### Ссылка для загрузки актуальной версии
 
