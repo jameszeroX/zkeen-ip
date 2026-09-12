@@ -62,6 +62,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
           "ext:zkeenip.dat:cogent",
           "ext:zkeenip.dat:colocrossing",
           "ext:zkeenip.dat:contabo",
+          "ext:zkeenip.dat:datacamp",
           "ext:zkeenip.dat:digitalocean",
           "ext:zkeenip.dat:fastly",
           "ext:zkeenip.dat:frantech",
