@@ -29,7 +29,7 @@ FAQ <https://jameszero.net/faq-xkeen.htm>
         "network": "udp",
         "port": "443",
         "ip": [
-          "ext:zkeenip.dat:!ru"
+          "!ext:zkeenip.dat:ru"
         ],
         "outboundTag": "block"
       },
